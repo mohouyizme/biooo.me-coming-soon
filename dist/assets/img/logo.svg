@@ -1,0 +1,30 @@
+<svg width="200" height="140" viewBox="0 0 200 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g style="mix-blend-mode:color-burn">
+<rect width="20" height="50" fill="black"/>
+<rect x="30.0001" y="20" width="20" height="30" fill="black"/>
+<rect x="60" width="20" height="50" fill="black"/>
+<rect x="50" y="29.998" width="10" height="20" fill="black"/>
+<rect x="19.9999" y="29.998" width="10" height="20" fill="black"/>
+<rect x="120" width="20" height="80" fill="black"/>
+<rect x="60" y="59.998" width="20" height="80" fill="black"/>
+<rect x="90" y="90" width="20" height="50" fill="black"/>
+<rect x="150" width="20" height="120" fill="black"/>
+<rect x="180" width="20" height="140" fill="black"/>
+<rect x="170" width="10" height="20" fill="black"/>
+<rect x="170" y="29.998" width="10" height="20" fill="black"/>
+<rect x="170" y="120" width="10" height="20" fill="black"/>
+<path d="M150 120H170V140L150 120Z" fill="black"/>
+<rect x="120" y="109.998" width="20" height="30" fill="black"/>
+<rect x="110" y="120" width="10" height="20" fill="black"/>
+<path d="M120 90L140 110H120V90Z" fill="black"/>
+<rect y="90" width="20" height="50" fill="black"/>
+<rect x="19.9999" y="90" width="30" height="20" fill="black"/>
+<rect x="19.9999" y="120" width="30" height="20" fill="black"/>
+<path d="M40.0001 79.998L60.0001 59.998V79.998H40.0001Z" fill="black"/>
+<rect x="90" width="30" height="20" fill="black"/>
+<rect x="90" y="29.998" width="30" height="20" fill="black"/>
+<rect x="110" y="59.998" width="10" height="20" fill="black"/>
+<path d="M90 59.998H110V79.998L90 59.998Z" fill="black"/>
+<path d="M30.0001 0L50.0001 20H30.0001V0Z" fill="black"/>
+</g>
+</svg>

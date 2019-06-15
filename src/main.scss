@@ -1,0 +1,27 @@
+body {
+  background: url('https://source.unsplash.com/alS7ewQ41M8/1920x1080') no-repeat
+    center center fixed;
+  background-size: cover;
+}
+
+.content {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.logo {
+  height: 75px;
+}
+
+.paragraph {
+  margin: 30px 0 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+}
